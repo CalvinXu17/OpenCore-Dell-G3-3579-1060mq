@@ -1,7 +1,7 @@
 # OpenCore-Dell-G3-3579-1060mq
 OpenCore EFI for Dell G3 3579 i5-8300H GTX1060maxq
 
-根据@[tonyleelyy](https://github.com/tonyleelyy) https://github.com/tonyleelyy/OpenCore-Hackintosh-Dell-G3-3579项目修改
+根据@[tonyleelyy](https://github.com/tonyleelyy) https://github.com/tonyleelyy/OpenCore-Hackintosh-Dell-G3-3579 项目修改，在BigSur下支持雷电3接口
 
 1. 更新OC到0.6.9
 
