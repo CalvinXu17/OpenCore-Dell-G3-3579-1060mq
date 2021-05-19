@@ -5,4 +5,4 @@ OpenCore EFI for Dell G3 3579 i5-8300H GTX1060maxq
 
 1. 更新OC到0.6.9
 
-2. 通过修改机型并修正USBPort.kext驱动1060mq版的Dell G3 3579 Thunderbolt3接口，可外接显示器或拓展坞
+2. 通过修改机型、添加IOElectrify.kext驱动并修正USBPorts.kext驱动1060mq版的Dell G3 3579 Thunderbolt3接口，可外接显示器或拓展坞
